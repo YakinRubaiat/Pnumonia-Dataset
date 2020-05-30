@@ -1,154 +1,431 @@
 # Pnumonia-Dataset
 Doctors Response
 
-| Timestamp           | 1   | Comment | 2  | Comment | 3   | Comment | 4   | Comment | 5   | Comment | 6   | Comment | 7   | Comment | 8  | Comment | 9   | Comment | 10  | Comment | 11  | Comment | 12  | Comment | 13 | Comment | 14  | Comment | 15  | Comment | 16  | Comment | 17  | Comment | 18 | Comment | 19 | Comment | 20  | Comment | 21  | Comment | 22  | Comment | 23 | Comment | 24  | Comment  | 25 | Comment | 26  | Comment | 27  | Comment | 28 | Comment | 30  | Comment | 31  | Comment | 32       | Comment | 33  | Comment | 34       | Comment |   | 35  | Comment | 36  | Comment | 37 | Comment | 38  | Comment | 39  | Comment | 40  | Comment | 41 | Comment | 42  | Comment | 43  | Comment | 44  | Comment | 44  | Comment | 45  | Comment | 46  | Comment | 47  | Comment | 48  | Comment | 49  | Comment | 50  | 51  | Comment | 52  | Comment | 53  | Comment | 54  | Comment | 55  | Comment | 56  | Comment | 57  | Comment | 58  | Comment | 59 | Comment | 60 | comment | 61 | Comment | 62 | comment | 63  | Comment | 64  | Comment | 65  | 66 | Comment | 67 | Comment | 68  | Comment | 69 | Comment | 70  | Comment | 71  | Comment | 72  | Comment | 73  | Comment | 74  | Comment | 75 | Comment | 76  | Comment | 77  | Comment | 78  | Comment | 79  | Comment | 80 | Comment | 81  | Comment | 82  | Comment | 83  | Comment | 84 | Comment | 85  | Comment | 86 | Comment | 87 | Comment | 88 | Comment | 89 | Comment | 90  | Comment | 91 | Comment | 92 | Comment | 93 | Comment | 94  | Comment | 95  | Comment | 96  | Comment | 97  | Comment | 98 | Comment | 99  | Comment | 100 | comment | 101 | Comment | 102 | 103 | Comment | 104 | Comment | 105 | Comment | 106 | Comment | 107 | Comment | 108 | Comment | 109 | Comment | 110 | Comment | 111 | Comment | 112 | Comment | 113 | Comment | 114 | Comment | 115 | Comment | 116 | Comment | 117 | Comment | 118 | comment | 119 | Comment | 120 | Comment | 121 | Comment | 122 | Comment | 123 | Comment | 124 | Comment | 125 | Comment | 126 | Comment | 127 | Comment | 128 | Comment | 129 | Comment | 130 | Comment | 131 | Comment | 132 | Comment | 133 | Comment | 134 | Comment | 135 | Comment | 136 | Comment | 137 | Comment | 138 | Comment | 139 | Comment |
-|---------------------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|---------|----|---------|----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|----------|----|---------|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|----------|---------|-----|---------|----------|---------|---|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|----|---------|----|---------|----|---------|----|---------|-----|---------|-----|---------|-----|----|---------|----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|---------|----|---------|----|---------|----|---------|----|---------|-----|---------|----|---------|----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|---------|----|---------|-----|---------|-----|---------|-----|---------|-----|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|-----|---------|
-| 26/02/2020 12:31:18 | No  |         | No |         | No  |         | Yes |         | Yes |         | Yes |         | No  |         | No |         | No  |         | Yes |         | No  |         | Yes |         | No |         | Yes |         | No  |         | Yes |         | No  |         | No |         | No |         | No  |         | No  |         | No  |         | No |         | Yes |          | No |         | Yes |         | No  |         | No |         | Yes |         | No  |         |          |         | Yes |         |          |         |   | Yes |         | No  |         | No |         | Yes |         | Yes |         | No  |         | No |         | Yes |         | Yes |         | Yes |         | No  |         | Yes |         |     |         | Yes |         | Yes |         | Yes |         | No  | No  |         | No  |         | Yes |         | No  |         | No  |         | No  |         | Yes |         | No  |         | No |         | No |         | No |         | No |         | Yes |         | No  |         | No  | No |         | No |         | Yes |         | No |         | No  |         |     |         | Yes |         | No  |         | Yes |         | No |         | Yes |         | No  |         | No  |         | No  |         | No |         | No  |         | No  |         | No  |         | No |         | No  |         | No |         | No |         | No |         | No |         | No  |         | No |         | No |         | No |         | No  |         | No  |         | No  |         | No  |         | No |         | Yes |         | No  |         | No  |         | No  | No  |         | Yes |         | No  |         | No  |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No  |         | Yes |         | No  |         | Yes |         | No  |         | No  |         | No  |         | Yes |         | Yes |         | No  |         | No  |         | Yes |         | No  |         | Yes |         | No  |         | No  |         | No  |         | No  |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         |
-| 16/03/2020 16:04:41 | No  |         | No |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No |         | Yes |         | No  |         | No  |         | No  |         | No |         | Yes |         | No  |         | Yes |         | Yes |         | No |         | No |         | No  |         | No  |         | No  |         | No |         |     | Fibrosis | No |         | No  |         | No  |         | No |         | No  |         | No  |         |          |         | No  |         |          |         |   | Yes |         | No  |         | No |         | Yes |         | No  |         | No  |         | No |         | Yes |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No  |         | Yes |         | Yes |         | No  | No  |         | Yes |         | No  |         | No  |         | Yes |         | No  |         | No  |         | Yes |         | No |         | No |         | No |         | No |         | Yes |         | No  |         |     | No |         | No |         | Yes |         | No |         | Yes |         | No  |         | No  |         | No  |         | Yes |         | No |         | Yes |         | No  |         | No  |         | Yes |         | No |         | No  |         | Yes |         | No  |         | No |         | Yes |         | No |         | No |         | No |         | No |         | Yes |         | No |         | No |         | No |         | No  |         | Yes |         | No  |         | No  |         | No |         | No  |         | No  |         | Yes |         | No  | Yes |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No  |         | Yes |         | No  |         | No  |         | No  |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | No  |         | Yes |         | Yes |         | No  |         | No  |         | No  |         | No  |         | No  |         |     |         |
-| 02/04/2020 21:23:44 | Yes |         | No |         | Yes |         | Yes |         | Yes |         | No  |         | Yes |         | No |         | Yes |         | No  |         | Yes |         | No  |         |    |         | Yes |         | Yes |         | Yes |         | Yes |         | No |         | No |         | Yes |         | Yes |         | Yes |         | No |         | Yes |          | No |         | Yes |         | Yes |         | No |         | No  |         | Yes |         | Option 1 |         |     |         | Option 1 |         |   | Yes |         | Yes |         | No |         | Yes |         | Yes |         | Yes |         | No |         | Yes |         | Yes |         | No  |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | No |         | No |         | No |         | No |         | Yes |         | Yes |         | Yes | No |         | No |         | Yes |         | No |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | No |         | Yes |         | Yes |         | Yes |         | No  |         | No |         | Yes |         | No  |         | Yes |         | No |         | Yes |         | No |         | No |         | No |         | No |         | Yes |         | No |         | No |         | No |         | Yes |         | Yes |         | Yes |         | Yes |         | No |         | Yes |         | No  |         | Yes |         | Yes | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | No  |         | Yes |         | No  |         | Yes |         | No  |         | No  |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | No  |         | Yes |         | Yes |         | No  |         | Yes |         | Yes |         | No  |         | No  |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | Yes |         | No  |         |
-
+| Timestamp | 26/02/2020 12:31   | 16/03/2020 16:04 | 02/04/2020 21:23 |
+|-----------|--------------------|------------------|------------------|
+| Doctors   | Doc1(ground truth) | Doc2             | Doc3             |
+| 1         | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 2         | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 3         | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 4         | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 5         | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 6         | Yes                | No               | No               |
+| Comment   |                    |                  |                  |
+| 7         | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 8         | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 9         | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 10        | Yes                | No               | No               |
+| Comment   |                    |                  |                  |
+| 11        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 12        | Yes                | No               | No               |
+| Comment   |                    |                  |                  |
+| 13        | No                 | No               |                  |
+| Comment   |                    |                  |                  |
+| 14        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 15        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 16        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 17        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 18        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 19        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 20        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 21        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 22        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 23        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 24        | Yes                |                  | Yes              |
+| Comment   |                    | Fibrosis         |                  |
+| 25        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 26        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 27        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 28        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 30        | Yes                | No               | No               |
+| Comment   |                    |                  |                  |
+| 31        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 32        |                    |                  | Option 1         |
+| Comment   |                    |                  |                  |
+| 33        | Yes                | No               |                  |
+| Comment   |                    |                  |                  |
+| 34        |                    |                  | Option 1         |
+| Comment   |                    |                  |                  |
+|           |                    |                  |                  |
+| 35        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 36        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 37        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 38        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 39        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 40        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 41        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 42        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 43        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 44        | Yes                | No               | No               |
+| Comment   |                    |                  |                  |
+| 44        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 45        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 46        |                    | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 47        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 48        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 49        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 50        | No                 | No               | Yes              |
+| 51        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 52        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 53        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 54        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 55        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 56        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 57        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 58        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 59        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 60        | No                 | No               | No               |
+| comment   |                    |                  |                  |
+| 61        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 62        | No                 | No               | No               |
+| comment   |                    |                  |                  |
+| 63        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 64        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 65        | No                 |                  | Yes              |
+| 66        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 67        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 68        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 69        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 70        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 71        |                    | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 72        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 73        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 74        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 75        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 76        | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 77        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 78        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 79        | No                 | Yes              | No               |
+| Comment   |                    |                  |                  |
+| 80        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 81        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 82        | No                 | Yes              | No               |
+| Comment   |                    |                  |                  |
+| 83        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 84        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 85        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 86        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 87        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 88        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 89        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 90        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 91        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 92        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 93        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 94        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 95        | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 96        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 97        | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 98        | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 99        | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 100       | No                 | No               | No               |
+| comment   |                    |                  |                  |
+| 101       | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 102       | No                 | No               | Yes              |
+| 103       | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 104       | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 105       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 106       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 107       | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 108       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 109       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 110       | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 111       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 112       | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 113       | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 114       | No                 | Yes              | No               |
+| Comment   |                    |                  |                  |
+| 115       | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 116       | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 117       | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 118       | No                 | No               | Yes              |
+| comment   |                    |                  |                  |
+| 119       | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 120       | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 121       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 122       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 123       | Yes                | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 124       | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 125       | Yes                | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 126       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 127       | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 128       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 129       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 130       | Yes                | No               | No               |
+| Comment   |                    |                  |                  |
+| 131       | No                 | No               | No               |
+| Comment   |                    |                  |                  |
+| 132       | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 133       | No                 | Yes              | Yes              |
+| Comment   |                    |                  |                  |
+| 134       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 135       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 136       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 137       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 138       | No                 | No               | Yes              |
+| Comment   |                    |                  |                  |
+| 139       | No                 |                  | No               |
+| Comment   |                    |                  |                  |
 
 Model vs Ground Truth( Doctors)
 
-| Number | Model | Confidence | Doctor 1 | Comments1 | Doctor 2 | Comments2 |
-|--------|-------|------------|----------|-----------|----------|-----------|
-| 1      | Yes   | 11.87      | No       |           | No       |           |
-| 2      |       |            | No       |           | No       |           |
-| 3      | Yes   | 21.821     | No       |           | Yes      |           |
-| 4      |       |            | Yes      |           | No       |           |
-| 5      |       |            | Yes      |           | No       |           |
-| 6      |       |            | Yes      |           | No       |           |
-| 7      |       |            | No       |           | No       |           |
-| 8      |       |            | No       |           | No       |           |
-| 9      |       |            | No       |           | Yes      |           |
-| 10     |       |            | Yes      |           | No       |           |
-| 11     |       |            | No       |           | No       |           |
-| 12     |       |            | Yes      |           | No       |           |
-| 13     |       |            | No       |           | No       |           |
-| 14     | Yes   | 10.63      | Yes      |           | Yes      |           |
-| 15     |       |            | No       |           | No       |           |
-| 16     |       |            | Yes      |           | Yes      |           |
-| 17     | Yes   | 10.14      | No       |           | Yes      |           |
-| 18     |       |            | No       |           | No       |           |
-| 19     |       |            | No       |           | No       |           |
-| 20     |       |            | No       |           | No       |           |
-| 21     |       |            | No       |           | No       |           |
-| 22     | Yes   | 12.74      | No       |           | No       |           |
-| 23     |       |            | No       |           | No       |           |
-| 24     | Yes   | 61.68      | Yes      |           | Yes      | Fibrosis  |
-| 25     |       |            | No       |           | No       |           |
-| 26     |       |            | Yes      |           | No       |           |
-| 27     |       |            | No       |           | No       |           |
-| 28     |       |            |          |           |          |           |
-| 29     |       |            | Yes      |           | No       |           |
-| 30     |       |            |          |           |          |           |
-| 31     |       |            | Yes      |           | Yes      |           |
-| 32     |       |            | No       |           | No       |           |
-| 33     |       |            | No       |           | No       |           |
-| 34     |       |            | Yes      |           | Yes      |           |
-| 35     |       |            | Yes      |           | No       |           |
-| 36     |       |            | No       |           | No       |           |
-| 37     |       |            | No       |           | No       |           |
-| 38     |       |            | Yes      |           | Yes      |           |
-| 39     | Yes   | 26.5757    | Yes      |           | Yes      |           |
-| 40     |       |            | Yes      |           | No       |           |
-| 41     |       |            | No       |           | No       |           |
-| 42     | Yes   | 15.01      | Yes      |           | No       |           |
-| 43     |       |            |          |           | No       |           |
-| 44     |       |            | Yes      |           | No       |           |
-| 45     | Yes   | 16.010994  | Yes      |           | Yes      |           |
-| 46     |       |            | No       |           | No       |           |
-| 47     |       |            | No       |           | No       |           |
-| 48     |       |            | No       |           | Yes      |           |
-| 49     |       |            | Yes      |           | No       |           |
-| 50     |       |            | No       |           | No       |           |
-| 51     |       |            | No       |           | Yes      |           |
-| 52     |       |            | No       |           | No       |           |
-| 53     |       |            | Yes      |           | No       |           |
-| 54     | Yes,  | 19.588     | No       |           | Yes      |           |
-| 55     |       |            | No       |           | No       |           |
-| 56     |       |            | No       |           | No       |           |
-| 57     |       |            | No       |           | No       |           |
-| 58     |       |            | No       |           | No       |           |
-| 59     | Yes,  | 13.1       | Yes      |           | Yes      |           |
-| 60     |       |            | No       |           | No       |           |
-| 61     |       |            | No       |           |          |           |
-| 62     |       |            | No       |           | No       |           |
-| 63     |       |            | No       |           | No       |           |
-| 64     | Yes   | 12.65      | Yes      |           | Yes      |           |
-| 65     |       |            | No       |           | No       |           |
-| 66     |       |            | No       |           | Yes      |           |
-| 67     |       |            |          |           | No       |           |
-| 68     | Yes   | 17.051     | Yes      |           | No       |           |
-| 69     |       |            | No       |           | No       |           |
-| 70     |       |            | Yes      |           | Yes      |           |
-| 71     |       |            | No       |           | No       |           |
-| 72     |       |            | Yes      |           | Yes      |           |
-| 73     |       |            | No       |           | No       |           |
-| 74     |       |            | No       |           | No       |           |
-| 75     |       |            | No       |           | Yes      |           |
-| 76     |       |            | No       |           | No       |           |
-| 77     |       |            | No       |           | No       |           |
-| 78     |       |            | No       |           | Yes      |           |
-| 79     |       |            | No       |           | No       |           |
-| 80     |       |            | No       |           | No       |           |
-| 81     |       |            | No       |           | Yes      |           |
-| 82     |       |            | No       |           | No       |           |
-| 83     |       |            | No       |           | No       |           |
-| 84     |       |            | No       |           | No       |           |
-| 85     |       |            | No       |           | No       |           |
-| 86     |       |            | No       |           | Yes      |           |
-| 87     |       |            | No       |           | No       |           |
-| 88     |       |            | No       |           | No       |           |
-| 89     |       |            | No       |           | No       |           |
-| 90     |       |            | No       |           | No       |           |
-| 91     |       |            | No       |           | Yes      |           |
-| 92     |       |            | No       |           | No       |           |
-| 93     |       |            | No       |           | No       |           |
-| 94     |       |            | No       |           | No       |           |
-| 95     | Yes   | 17.712     | Yes      |           | No       |           |
-| 96     |       |            | No       |           | No       |           |
-| 97     |       |            | No       |           | Yes      |           |
-| 98     | Yes   | 28.04      | No       |           | No       |           |
-| 99     |       |            | No       |           | Yes      |           |
-| 100    | Yes   | 54.09      | Yes      |           | Yes      |           |
-| 101    |       |            | No       |           | No       |           |
-| 102    |       |            | No       |           | No       |           |
-| 103    |       |            | Yes      |           | No       |           |
-| 104    |       |            | No       |           | No       |           |
-| 105    |       |            | No       |           | No       |           |
-| 106    |       |            | No       |           | Yes      |           |
-| 107    |       |            | No       |           | No       |           |
-| 108    |       |            | No       |           | No       |           |
-| 109    |       |            | Yes      |           | No       |           |
-| 110    |       |            | No       |           | Yes      |           |
-| 111    | Yes   | 24.9268    | Yes      |           | No       |           |
-| 112    |       |            | No       |           | No       |           |
-| 113    |       |            | No       |           | No       |           |
-| 114    |       |            | No       |           | No       |           |
-| 115    | Yes   | 19.3       | Yes      |           | No       |           |
-| 116    |       |            | Yes      |           | No       |           |
-| 117    |       |            | No       |           | No       |           |
-| 118    |       |            | No       |           | No       |           |
-| 119    | Yes   | 55.68      | Yes      |           | Yes      |           |
-| 120    |       |            | No       |           | No       |           |
-| 121    |       |            | Yes      |           | No       |           |
-| 122    |       |            | No       |           | No       |           |
-| 123    |       |            | No       |           | No       |           |
-| 124    |       |            | No       |           | No       |           |
-| 125    |       |            | No       |           | No       |           |
-| 126    |       |            | Yes      |           | No       |           |
-| 127    |       |            | No       |           | No       |           |
-| 128    |       |            | No       |           | Yes      |           |
-| 129    |       |            | No       |           | Yes      |           |
-| 130    |       |            | No       |           | No       |           |
-| 131    |       |            | No       |           | No       |           |
-| 132    |       |            | No       |           | No       |           |
-| 133    |       |            | No       |           | No       |           |
-| 134    |       |            | No       |           | No       |           |
-| 135    |       |            |          |           |          |           |
-| 136    |       |            | No       |           | No       |           |
-| 137    |       |            |          |           |          |           |
-| 138    |       |            | No       |           | No       |           |
-| 139    | Yes   | 44.92      | Yes      |           | No       |           |
-| 140    |       |            | No       |           | No       |           |
+Doctors Information:
+  Dcotor 1:  Dr. Md. Siddiqur Rahman
+  Doctor 2:  Dr. Md. Monirul Islam, Assistant registrar. Medicine
+
+| ID  | Doctor 1/Ground Truth | Model | Doctor 2 | Doctor 3 |
+|-----|-----------------------|-------|----------|----------|
+| 1   | No                    | Yes   | No       | Yes      |
+| 2   | No                    |       | No       | No       |
+| 3   | No                    | Yes   | Yes      | Yes      |
+| 4   | Yes                   |       | No       | Yes      |
+| 5   | Yes                   |       | No       | Yes      |
+| 6   | Yes                   |       | No       | No       |
+| 7   | No                    |       | No       | Yes      |
+| 8   | No                    |       | No       | No       |
+| 9   | No                    |       | Yes      | Yes      |
+| 10  | Yes                   |       | No       | No       |
+| 11  | No                    |       | No       | Yes      |
+| 12  | Yes                   |       | No       | No       |
+| 13  | No                    |       | No       |          |
+| 14  | Yes                   | Yes   | Yes      | Yes      |
+| 15  | No                    |       | No       | Yes      |
+| 16  | Yes                   |       | Yes      | Yes      |
+| 17  | No                    | Yes   | Yes      | Yes      |
+| 18  | No                    |       | No       | No       |
+| 19  | No                    |       | No       | No       |
+| 20  | No                    |       | No       | Yes      |
+| 21  | No                    |       | No       | Yes      |
+| 22  | No                    | Yes   | No       | Yes      |
+| 23  | No                    |       | No       | No       |
+| 24  | Yes                   | Yes   | Fibrosis | Yes      |
+| 25  | No                    |       | No       | No       |
+| 26  | Yes                   |       | No       | No       |
+| 27  | No                    |       | No       | Yes      |
+| 28  |                       |       |          |          |
+| 29  | Yes                   |       | No       |          |
+| 30  |                       |       |          |          |
+| 31  | Yes                   |       | Yes      | Yes      |
+| 32  | No                    |       | No       | Yes      |
+| 33  | No                    |       | No       | No       |
+| 34  | Yes                   |       | Yes      | Yes      |
+| 35  | Yes                   |       | No       | Yes      |
+| 36  | No                    |       | No       | Yes      |
+| 37  | No                    |       | No       | No       |
+| 38  | Yes                   |       | Yes      | Yes      |
+| 39  | Yes                   | Yes   | Yes      | Yes      |
+| 40  | Yes                   |       | No       | No       |
+| 41  | No                    |       | No       | Yes      |
+| 42  | Yes                   | Yes   | No       | No       |
+| 43  |                       |       | No       | Yes      |
+| 44  | Yes                   |       | No       | Yes      |
+| 45  | Yes                   | Yes   | Yes      | Yes      |
+| 46  | No                    |       | No       | Yes      |
+| 47  | No                    |       | No       | Yes      |
+| 48  | No                    |       | Yes      | Yes      |
+| 49  | Yes                   |       | No       | Yes      |
+| 50  | No                    |       | No       | Yes      |
+| 51  | No                    |       | Yes      | Yes      |
+| 52  | No                    |       | No       | Yes      |
+| 53  | Yes                   |       | No       | Yes      |
+| 54  | No                    | Yes,  | Yes      | Yes      |
+| 55  | No                    |       | No       | No       |
+| 56  | No                    |       | No       | No       |
+| 57  | No                    |       | No       | No       |
+| 58  | No                    |       | No       | No       |
+| 59  | Yes                   | Yes,  | Yes      | Yes      |
+| 60  | No                    |       | No       | Yes      |
+| 61  | No                    |       |          | Yes      |
+| 62  | No                    |       | No       | No       |
+| 63  | No                    |       | No       | No       |
+| 64  | Yes                   | Yes   | Yes      | Yes      |
+| 65  | No                    |       | No       | No       |
+| 66  | No                    |       | Yes      | Yes      |
+| 67  |                       |       | No       | Yes      |
+| 68  | Yes                   | Yes   | No       | Yes      |
+| 69  | No                    |       | No       | Yes      |
+| 70  | Yes                   |       | Yes      | Yes      |
+| 71  | No                    |       | No       | No       |
+| 72  | Yes                   |       | Yes      | Yes      |
+| 73  | No                    |       | No       | Yes      |
+| 74  | No                    |       | No       | Yes      |
+| 75  | No                    |       | Yes      | No       |
+| 76  | No                    |       | No       | No       |
+| 77  | No                    |       | No       | Yes      |
+| 78  | No                    |       | Yes      | No       |
+| 79  | No                    |       | No       | Yes      |
+| 80  | No                    |       | No       | No       |
+| 81  | No                    |       | Yes      | Yes      |
+| 82  | No                    |       | No       | No       |
+| 83  | No                    |       | No       | No       |
+| 84  | No                    |       | No       | No       |
+| 85  | No                    |       | No       | No       |
+| 86  | No                    |       | Yes      | Yes      |
+| 87  | No                    |       | No       | No       |
+| 88  | No                    |       | No       | No       |
+| 89  | No                    |       | No       | No       |
+| 90  | No                    |       | No       | Yes      |
+| 91  | No                    |       | Yes      | Yes      |
+| 92  | No                    |       | No       | Yes      |
+| 93  | No                    |       | No       | Yes      |
+| 94  | No                    |       | No       | No       |
+| 95  | Yes                   | Yes   | No       | Yes      |
+| 96  | No                    |       | No       | No       |
+| 97  | No                    |       | Yes      | Yes      |
+| 98  | No                    | Yes   | No       | Yes      |
+| 99  | No                    |       | Yes      | Yes      |
+| 100 | Yes                   | Yes   | Yes      | Yes      |
+| 101 | No                    |       | No       | Yes      |
+| 102 | No                    |       | No       | Yes      |
+| 103 | Yes                   |       | No       | Yes      |
+| 104 | No                    |       | No       | Yes      |
+| 105 | No                    |       | No       | Yes      |
+| 106 | No                    |       | Yes      | Yes      |
+| 107 | No                    |       | No       | Yes      |
+| 108 | No                    |       | No       | No       |
+| 109 | Yes                   |       | No       | Yes      |
+| 110 | No                    |       | Yes      | No       |
+| 111 | Yes                   | Yes   | No       | Yes      |
+| 112 | No                    |       | No       | No       |
+| 113 | No                    |       | No       | No       |
+| 114 | No                    |       | No       | Yes      |
+| 115 | Yes                   | Yes   | No       | Yes      |
+| 116 | Yes                   |       | No       | Yes      |
+| 117 | No                    |       | No       | Yes      |
+| 118 | No                    |       | No       | Yes      |
+| 119 | Yes                   | Yes   | Yes      | Yes      |
+| 120 | No                    |       | No       | No       |
+| 121 | Yes                   |       | No       | Yes      |
+| 122 | No                    |       | No       | Yes      |
+| 123 | No                    |       | No       | No       |
+| 124 | No                    |       | No       | Yes      |
+| 125 | No                    |       | No       | Yes      |
+| 126 | Yes                   |       | No       | No       |
+| 127 | No                    |       | No       | No       |
+| 128 | No                    |       | Yes      | Yes      |
+| 129 | No                    |       | Yes      | Yes      |
+| 130 | No                    |       | No       | Yes      |
+| 131 | No                    |       | No       | Yes      |
+| 132 | No                    |       | No       | Yes      |
+| 133 | No                    |       | No       | Yes      |
+| 134 | No                    |       | No       | Yes      |
+| 135 |                       |       |          |          |
+| 136 | No                    |       | No       | Yes      |
+| 137 |                       |       |          |          |
+| 138 | No                    |       | No       | No       |
+| 139 | Yes                   | Yes   | No       | Yes      |
+| 140 | No                    |       | No       | No       |
