@@ -1,0 +1,102 @@
+,Target,boxes,class,height,path,patientId,width,x,y
+129,1.0,2.0,Lung Opacity,101.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/01fa0f5e-00c3-41cb-b5c7-10600c8633ae.dcm,01fa0f5e-00c3-41cb-b5c7-10600c8633ae,101.0,602.0,438.0
+130,1.0,2.0,Lung Opacity,121.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/01fa0f5e-00c3-41cb-b5c7-10600c8633ae.dcm,01fa0f5e-00c3-41cb-b5c7-10600c8633ae,96.0,364.0,419.0
+131,1.0,2.0,Lung Opacity,289.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/01fdfd88-7607-48b9-ba05-a36e8b6fd19b.dcm,01fdfd88-7607-48b9-ba05-a36e8b6fd19b,170.0,319.0,437.0
+132,1.0,2.0,Lung Opacity,284.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/01fdfd88-7607-48b9-ba05-a36e8b6fd19b.dcm,01fdfd88-7607-48b9-ba05-a36e8b6fd19b,162.0,669.0,449.0
+181,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/02c2331d-b3fa-4d55-bf86-f0efbd589c86.dcm,02c2331d-b3fa-4d55-bf86-f0efbd589c86,,,
+839,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/09547f4f-c52e-4fd7-8738-0e01e6277034.dcm,09547f4f-c52e-4fd7-8738-0e01e6277034,,,
+1368,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/0e240e03-8d4e-4415-a2e1-03ec36b15bfc.dcm,0e240e03-8d4e-4415-a2e1-03ec36b15bfc,,,
+1669,1.0,2.0,Lung Opacity,179.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/13990031-9dbf-4e03-9505-0f9120bdb166.dcm,13990031-9dbf-4e03-9505-0f9120bdb166,150.0,476.0,543.0
+1670,1.0,2.0,Lung Opacity,97.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/13990031-9dbf-4e03-9505-0f9120bdb166.dcm,13990031-9dbf-4e03-9505-0f9120bdb166,162.0,229.0,648.0
+1697,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/142c4c2d-ef83-468d-869e-fc0d72768cfb.dcm,142c4c2d-ef83-468d-869e-fc0d72768cfb,,,
+1915,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/1643d9ee-7f12-4a05-9328-f7d775f6cd2c.dcm,1643d9ee-7f12-4a05-9328-f7d775f6cd2c,,,
+1984,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/16edb34f-c48e-44bf-81a6-4d1155c213cb.dcm,16edb34f-c48e-44bf-81a6-4d1155c213cb,,,
+3043,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/2875f1b1-25d0-455a-b098-728ae2ee84ce.dcm,2875f1b1-25d0-455a-b098-728ae2ee84ce,,,
+3141,1.0,2.0,Lung Opacity,266.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/2aae181e-a4b7-47f4-ac47-e99001b9008b.dcm,2aae181e-a4b7-47f4-ac47-e99001b9008b,187.0,571.0,280.0
+3142,1.0,2.0,Lung Opacity,224.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/2aae181e-a4b7-47f4-ac47-e99001b9008b.dcm,2aae181e-a4b7-47f4-ac47-e99001b9008b,178.0,164.0,291.0
+3428,1.0,1.0,Lung Opacity,96.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3041969c-8db3-448c-98fd-10ff11dd59d4.dcm,3041969c-8db3-448c-98fd-10ff11dd59d4,136.0,572.0,447.0
+3488,1.0,2.0,Lung Opacity,125.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/314f6860-4382-4ccd-a787-34b388e673f1.dcm,314f6860-4382-4ccd-a787-34b388e673f1,71.0,388.0,466.0
+3489,1.0,2.0,Lung Opacity,142.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/314f6860-4382-4ccd-a787-34b388e673f1.dcm,314f6860-4382-4ccd-a787-34b388e673f1,89.0,579.0,470.0
+3658,1.0,2.0,Lung Opacity,151.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3246006e-f323-43c9-a322-4979fdb85f37.dcm,3246006e-f323-43c9-a322-4979fdb85f37,164.0,295.0,525.0
+3659,1.0,2.0,Lung Opacity,186.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3246006e-f323-43c9-a322-4979fdb85f37.dcm,3246006e-f323-43c9-a322-4979fdb85f37,188.0,611.0,497.0
+3902,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/33dbca25-e1c9-4bcf-a8a7-4fa716e8a53a.dcm,33dbca25-e1c9-4bcf-a8a7-4fa716e8a53a,,,
+4143,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/35621d68-0915-463c-b0f8-2365c6e56e11.dcm,35621d68-0915-463c-b0f8-2365c6e56e11,,,
+4764,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/396a6819-5c6c-4809-8b76-4f41243a1d4f.dcm,396a6819-5c6c-4809-8b76-4f41243a1d4f,,,
+4766,1.0,1.0,Lung Opacity,126.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/39709c3d-8105-442a-bf70-22a4319b1f47.dcm,39709c3d-8105-442a-bf70-22a4319b1f47,119.0,386.0,333.0
+5136,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3be5c139-0aa5-4c72-b930-eb513765218e.dcm,3be5c139-0aa5-4c72-b930-eb513765218e,,,
+5481,1.0,2.0,Lung Opacity,123.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3e28d63e-ac00-4b0f-ac60-c475bcb1bc19.dcm,3e28d63e-ac00-4b0f-ac60-c475bcb1bc19,92.0,422.0,760.0
+5482,1.0,2.0,Lung Opacity,137.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3e28d63e-ac00-4b0f-ac60-c475bcb1bc19.dcm,3e28d63e-ac00-4b0f-ac60-c475bcb1bc19,116.0,689.0,765.0
+5544,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3e9dc5b9-1b7a-4e9f-a8aa-d28fc622f595.dcm,3e9dc5b9-1b7a-4e9f-a8aa-d28fc622f595,,,
+5750,1.0,2.0,Lung Opacity,301.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3ff3fc6e-bef0-4d90-a4a5-0eb40c1f7710.dcm,3ff3fc6e-bef0-4d90-a4a5-0eb40c1f7710,235.0,193.0,245.0
+5751,1.0,2.0,Lung Opacity,340.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/3ff3fc6e-bef0-4d90-a4a5-0eb40c1f7710.dcm,3ff3fc6e-bef0-4d90-a4a5-0eb40c1f7710,217.0,523.0,244.0
+7010,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/4a2abe71-8cd4-4d57-978d-2da7d67bd80d.dcm,4a2abe71-8cd4-4d57-978d-2da7d67bd80d,,,
+7151,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/4b4dc3cd-331b-4318-8bee-e1506fbf9513.dcm,4b4dc3cd-331b-4318-8bee-e1506fbf9513,,,
+7307,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/4c7afe96-9f99-496f-a4c4-d27a3d76a767.dcm,4c7afe96-9f99-496f-a4c4-d27a3d76a767,,,
+7448,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/4dca2422-fef2-491f-a80f-9cc90838f178.dcm,4dca2422-fef2-491f-a80f-9cc90838f178,,,
+9058,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/5aef8439-6fc5-45c0-9e52-1524f62a69f2.dcm,5aef8439-6fc5-45c0-9e52-1524f62a69f2,,,
+9160,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/5bd1b4bb-924d-485a-8e33-80109e911335.dcm,5bd1b4bb-924d-485a-8e33-80109e911335,,,
+9449,1.0,1.0,Lung Opacity,92.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/5e3da45b-f7b6-4948-aad4-7a37cf9cae5b.dcm,5e3da45b-f7b6-4948-aad4-7a37cf9cae5b,69.0,335.0,698.0
+9494,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/5e9ab5d7-c02b-40c1-9b43-bfa862722f82.dcm,5e9ab5d7-c02b-40c1-9b43-bfa862722f82,,,
+9623,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/5f9692fa-23cd-4ed0-a9db-5571482f6d11.dcm,5f9692fa-23cd-4ed0-a9db-5571482f6d11,,,
+10174,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/6438d645-6fdb-4fda-8598-a4c1902a33c2.dcm,6438d645-6fdb-4fda-8598-a4c1902a33c2,,,
+10840,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/696ce288-318a-4d4e-988b-7fcdb4b0900b.dcm,696ce288-318a-4d4e-988b-7fcdb4b0900b,,,
+10889,1.0,1.0,Lung Opacity,96.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/69c66f87-1483-467e-a44c-846685b2f474.dcm,69c66f87-1483-467e-a44c-846685b2f474,91.0,331.0,402.0
+11387,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/6d7a8c55-84e2-4233-a955-ae09cd02f990.dcm,6d7a8c55-84e2-4233-a955-ae09cd02f990,,,
+11505,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/6e65ae6d-b2a2-4a2a-9890-2c7b2edd2eb2.dcm,6e65ae6d-b2a2-4a2a-9890-2c7b2edd2eb2,,,
+11520,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/6e94ef7a-a4c1-46b5-8fed-efe23d8ad9e6.dcm,6e94ef7a-a4c1-46b5-8fed-efe23d8ad9e6,,,
+11712,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/7013a598-e32c-45c8-ae47-e75dfeffd918.dcm,7013a598-e32c-45c8-ae47-e75dfeffd918,,,
+13848,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/80dd3324-cea6-47c3-bf7c-45a083f954a0.dcm,80dd3324-cea6-47c3-bf7c-45a083f954a0,,,
+14150,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/8355ac5a-924d-4c43-99e0-f675b5f0e86c.dcm,8355ac5a-924d-4c43-99e0-f675b5f0e86c,,,
+14648,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/8788cea6-effd-4a43-9004-19a7cb1207f4.dcm,8788cea6-effd-4a43-9004-19a7cb1207f4,,,
+14884,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/8968d121-af83-4ac8-a4fe-5e24fcb09ace.dcm,8968d121-af83-4ac8-a4fe-5e24fcb09ace,,,
+15629,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/8eff11d0-2aa4-4033-8e25-3956bc0568b1.dcm,8eff11d0-2aa4-4033-8e25-3956bc0568b1,,,
+15643,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/8f1a0a7d-4fc4-46b7-ab9b-b280de94320c.dcm,8f1a0a7d-4fc4-46b7-ab9b-b280de94320c,,,
+16341,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/94acade9-f3b8-4b53-860f-e91bb9c33986.dcm,94acade9-f3b8-4b53-860f-e91bb9c33986,,,
+16543,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/966094de-7960-4b46-9dfc-f5fd10697098.dcm,966094de-7960-4b46-9dfc-f5fd10697098,,,
+16639,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/9746c15f-94d1-4528-aff0-8ef02ccccef0.dcm,9746c15f-94d1-4528-aff0-8ef02ccccef0,,,
+17121,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/9af1d25e-fdd6-4ea0-9845-04760b196c47.dcm,9af1d25e-fdd6-4ea0-9845-04760b196c47,,,
+17209,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/9bc0edbf-b5f8-4464-b499-b1af7a2ccc2a.dcm,9bc0edbf-b5f8-4464-b499-b1af7a2ccc2a,,,
+17432,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/9dd4b75a-b61f-478e-ac67-3cfa6a4edbad.dcm,9dd4b75a-b61f-478e-ac67-3cfa6a4edbad,,,
+17641,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/9f6b73b6-14ee-42c2-bdcc-4e39a0cb137e.dcm,9f6b73b6-14ee-42c2-bdcc-4e39a0cb137e,,,
+17710,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/9fee1fbb-4c28-461b-8f2a-b208a4a5e4f2.dcm,9fee1fbb-4c28-461b-8f2a-b208a4a5e4f2,,,
+18142,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/a35c15bf-541e-4f96-b35f-4f128b9d7843.dcm,a35c15bf-541e-4f96-b35f-4f128b9d7843,,,
+18417,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/a53a67ff-caf0-442f-b514-260795b6cd3a.dcm,a53a67ff-caf0-442f-b514-260795b6cd3a,,,
+18848,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/a8931b27-a94b-4244-8253-5ba5fc596eb9.dcm,a8931b27-a94b-4244-8253-5ba5fc596eb9,,,
+18900,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/a8f16478-b36a-4bc9-ac8a-75477d8ea168.dcm,a8f16478-b36a-4bc9-ac8a-75477d8ea168,,,
+19143,1.0,1.0,Lung Opacity,376.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/aadb6dc2-bcd7-42fe-a424-a5f7af6c9f74.dcm,aadb6dc2-bcd7-42fe-a424-a5f7af6c9f74,241.0,534.0,272.0
+19548,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/ad89c9de-3e31-4bc8-b8d3-757a76d64af3.dcm,ad89c9de-3e31-4bc8-b8d3-757a76d64af3,,,
+19803,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/af575d0d-7e63-4f8d-9919-3a8da381d886.dcm,af575d0d-7e63-4f8d-9919-3a8da381d886,,,
+20329,1.0,2.0,Lung Opacity,207.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b2d5a048-01c8-4140-9f32-822db6e813c5.dcm,b2d5a048-01c8-4140-9f32-822db6e813c5,147.0,245.0,389.0
+20330,1.0,2.0,Lung Opacity,187.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b2d5a048-01c8-4140-9f32-822db6e813c5.dcm,b2d5a048-01c8-4140-9f32-822db6e813c5,121.0,463.0,349.0
+20414,1.0,2.0,Lung Opacity,126.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b35d57ee-f22b-4c8c-b959-3ee8eecef555.dcm,b35d57ee-f22b-4c8c-b959-3ee8eecef555,137.0,350.0,656.0
+20415,1.0,2.0,Lung Opacity,152.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b35d57ee-f22b-4c8c-b959-3ee8eecef555.dcm,b35d57ee-f22b-4c8c-b959-3ee8eecef555,136.0,512.0,636.0
+20489,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b3eca1d4-f307-44ee-9f82-ffee6bd37138.dcm,b3eca1d4-f307-44ee-9f82-ffee6bd37138,,,
+20664,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b4fe242c-892f-4839-9aa6-d6b140649635.dcm,b4fe242c-892f-4839-9aa6-d6b140649635,,,
+20748,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b5712cbd-9eda-4221-be93-522919a0ec70.dcm,b5712cbd-9eda-4221-be93-522919a0ec70,,,
+21123,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/b80c4378-bfb8-4dd6-8e93-a5e84fdb19ff.dcm,b80c4378-bfb8-4dd6-8e93-a5e84fdb19ff,,,
+21438,1.0,1.0,Lung Opacity,250.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/ba221090-4382-4ccf-afc2-cda9af445aa5.dcm,ba221090-4382-4ccf-afc2-cda9af445aa5,188.0,237.0,26.0
+21713,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/bbed1677-6d08-4793-8ddc-7111cb39c0e7.dcm,bbed1677-6d08-4793-8ddc-7111cb39c0e7,,,
+22248,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/bf494059-4fe2-4f8f-a503-c340105e56ce.dcm,bf494059-4fe2-4f8f-a503-c340105e56ce,,,
+22537,1.0,2.0,Lung Opacity,146.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/c241425c-418c-4958-8a18-c3425fe03f03.dcm,c241425c-418c-4958-8a18-c3425fe03f03,116.0,648.0,277.0
+22538,1.0,2.0,Lung Opacity,157.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/c241425c-418c-4958-8a18-c3425fe03f03.dcm,c241425c-418c-4958-8a18-c3425fe03f03,90.0,459.0,300.0
+22812,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/c4095ef6-7014-420e-a40d-3a3f711c500f.dcm,c4095ef6-7014-420e-a40d-3a3f711c500f,,,
+23320,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/c7f7e305-0ea2-41e6-96d5-4e207066389e.dcm,c7f7e305-0ea2-41e6-96d5-4e207066389e,,,
+23526,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/c9b0cbc7-e448-4531-91e5-6d3e982e5eab.dcm,c9b0cbc7-e448-4531-91e5-6d3e982e5eab,,,
+24460,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/d129ade5-d54c-4d3d-bf6b-a1de107fcc1b.dcm,d129ade5-d54c-4d3d-bf6b-a1de107fcc1b,,,
+25502,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/d9f7cfdf-0b34-4647-bd4c-5f64d21f717a.dcm,d9f7cfdf-0b34-4647-bd4c-5f64d21f717a,,,
+25623,1.0,1.0,Lung Opacity,151.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/db1fc476-1976-42f3-b442-1e37fcf45044.dcm,db1fc476-1976-42f3-b442-1e37fcf45044,146.0,294.0,497.0
+26161,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/dfbf2061-27d4-452f-80a3-79af6cb529f2.dcm,dfbf2061-27d4-452f-80a3-79af6cb529f2,,,
+26278,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/e09b8f66-8a1f-4c0f-8c37-22e8bd0dd2f9.dcm,e09b8f66-8a1f-4c0f-8c37-22e8bd0dd2f9,,,
+26848,1.0,1.0,Lung Opacity,64.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/e542d5db-28c5-4e73-aa47-a441143887cc.dcm,e542d5db-28c5-4e73-aa47-a441143887cc,59.0,531.0,524.0
+27402,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/e9c4ac98-e02b-4a4b-9089-31962949ea19.dcm,e9c4ac98-e02b-4a4b-9089-31962949ea19,,,
+27475,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/ea5cc41a-f379-4d12-ae6c-129149c99c7b.dcm,ea5cc41a-f379-4d12-ae6c-129149c99c7b,,,
+27577,1.0,1.0,Lung Opacity,102.0,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/eb2225b3-b09e-408c-8c48-27b1bad103a9.dcm,eb2225b3-b09e-408c-8c48-27b1bad103a9,125.0,265.0,643.0
+27599,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/eb4e6b74-352a-4631-9456-d848c2232440.dcm,eb4e6b74-352a-4631-9456-d848c2232440,,,
+27797,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/ecb0e8b7-0f0f-40ed-848d-8b070a14bc8c.dcm,ecb0e8b7-0f0f-40ed-848d-8b070a14bc8c,,,
+27857,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/ed202cf8-732b-42a0-a09d-d5070cf31bf0.dcm,ed202cf8-732b-42a0-a09d-d5070cf31bf0,,,
+28417,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/f1a6ae49-8a55-4fc9-886c-4bfb6be0d8e2.dcm,f1a6ae49-8a55-4fc9-886c-4bfb6be0d8e2,,,
+28513,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/f25fbd2a-7adc-4701-95c4-549983ce8aa7.dcm,f25fbd2a-7adc-4701-95c4-549983ce8aa7,,,
+28608,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/f314dd58-cd26-4373-9c76-52b4823c4a91.dcm,f314dd58-cd26-4373-9c76-52b4823c4a91,,,
+29308,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/f8e8da4e-f23d-477a-84e8-4e45eaa25fca.dcm,f8e8da4e-f23d-477a-84e8-4e45eaa25fca,,,
+29712,0.0,1.0,Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/fbedf818-1c7b-4348-b46d-7ecf27cb086f.dcm,fbedf818-1c7b-4348-b46d-7ecf27cb086f,,,
+29964,0.0,1.0,No Lung Opacity / Not Normal,,../input/rsna-pneumonia-detection-challenge/stage_2_train_images/fe0e168c-b5cf-476b-b8f8-4de4c8707db5.dcm,fe0e168c-b5cf-476b-b8f8-4de4c8707db5,,,
