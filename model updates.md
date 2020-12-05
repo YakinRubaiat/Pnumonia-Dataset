@@ -8,12 +8,13 @@ Resnet101 model on male(7547) female(5653) rsna data
       ![resnet101 male female(total) rsna equal balance 3 classes test acc 53%, training 83%](https://user-images.githubusercontent.com/52566550/100654220-afe1d280-3373-11eb-8fb2-595dd80bd21a.png)
       
 Resnet101 on male female  rsna(only PA) 
-       class: lung op-1000, normal-500, not normal-500,  validation acc, loss decreasing, underfit.
+       class: lung op-1000, normal-500, not normal-500,  validation accuracy and loss decreasing, model underfits.
       --instead of rmsprop, if we use adam, training acc is less, validation acc and loss increases and decreases (fluctuates)
       ![resnet101 male female pa rsna  25 ,384,  10 epochs ,  auc train test curve (class-not normal 500, normal 500, lung op-1000)](https://user-images.githubusercontent.com/52566550/100654416-f59e9b00-3373-11eb-9eea-0f70447ee94b.png)
       
       
       class: lung op-1000, normal-500, not normal-1000
       model underfitting, 73% test, 79% training acc, validation curve doesnt fluctuate.
-      ![resnet101 male female pa rsna normal 500, not normal 1000, lung 1000, test acc 73%, training 79% curve 10 epochs, rmsprop dropout  25 , 384](https://user-images.githubusercontent.com/52566550/100654381-e3246180-3373-11eb-875b-7da05daff25a.png)
+      ![resnet101 male female pa rsna normal 500, not normal 1000, lung 1000, test acc 73%, training 79% curve 10 epochs, rmsprop dropout  25 , 384](https://user-images.githubusercontent.com/52566550/101233931-82838480-36e5-11eb-8892-febed48ec7ee.png)
+
       
