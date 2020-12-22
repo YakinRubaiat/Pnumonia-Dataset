@@ -2,7 +2,7 @@ Model vs Ground Truth( Doctors)
 
 Doctors Information: Doctor 1: Dr. Md. Siddiqur Rahman Doctor 2: Dr. Md. Monirul Islam: Specialty – Respiratory Medicine, Degree – MBBS, DTCD, DTCE, FCCP. Designation: Senior Consultant , Department: Respiratory Medicine 
 
-Local test data ( male and female, 129 images) ground truth ( 3 doctors) and predictions ( resnet101 and densenet121 model trained on male female pa, male pa and female pa separate rsna datasets)
+Local test data ( male and female, 129 images) ground truth ( 3 doctors) and predictions ( resnet101 and densenet121 model trained on male female pa, male pa and female pa separate rsna datasets) both probability of not pneumonia and pneumonia.
 
 | ID  | Doctor 1/Ground Truth | Doctor 2 | Doctor 3 | resnet101(male-female pa) | densenet121(male-female pa) | resnet 101 (male pa)      | densenet121 (male pa)     | resnet101 (female pa)     | densenet121( female pa)   |
 |-----|-----------------------|----------|----------|---------------------------|-----------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
